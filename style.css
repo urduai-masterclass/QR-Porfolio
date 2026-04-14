@@ -5,8 +5,8 @@
 
 :root {
     /* Colors */
-    --bg: #080808;
-    --surface: #121212;
+    --bg: #040b1a;
+    --surface: #0a162e;
     --accent: #D4AF37;
     --text-main: #FFFFFF;
     --text-dim: #A0A0A0;
@@ -102,7 +102,7 @@ img {
 }
 
 .nav-container.scrolled {
-    background: rgba(8, 8, 8, 0.9);
+    background: rgba(4, 11, 26, 0.95);
     backdrop-filter: blur(10px);
     padding: 20px 0;
     border-bottom: 1px solid var(--border);
